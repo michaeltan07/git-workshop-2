@@ -1,0 +1,73 @@
+body{
+
+    padding: 0px;
+    margin: 0px;
+    font: Oswald;
+    color:rgb(255,255,255);
+}
+
+.form{
+    display: inline-block;
+    font: Oswald;
+    color:rgb(255,255,255);
+    
+}
+
+
+
+a, h1, p, form{
+    font-family: Oswald;
+    color:rgb(255,255,255);
+}
+
+.myButton {
+	-moz-box-shadow:inset 0px 34px 0px -15px #b54b3a;
+	-webkit-box-shadow:inset 0px 34px 0px -15px #b54b3a;
+	box-shadow:inset 0px 34px 0px -15px #b54b3a;
+	background-color:#a73f2d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #7a2a1d;
+}
+.myButton:hover {
+	background-color:#b34332;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.rss{
+    display:inline-block;
+    width: 300px;
+    float:right;
+    font-family: Oswald;
+    color:rgb(255,255,255);
+}
+
+.bar{
+    color: black;
+    background-color: aliceblue;
+    height: 60px;
+    padding: 10px;
+    background-image: url("http://res.freestockphotos.biz/pictures/12/12027-close-up-of-an-american-flag-pv.jpg");
+    background-size: 1200px;
+    background-repeat: no-repeat;
+    
+}
+
+.background{
+     background-image: url("http://a.abcnews.com/images/Business/GTY_capitol_building_retirement_jef_130722_33x16_1600.jpg");
+    background-repeat: no-repeat;
+    background-size: 1200px 600px;
+    padding: 10px;
+    height:100%;
+    min-height: 600px;
+}
